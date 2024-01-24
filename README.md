@@ -18,11 +18,19 @@ Each challenge is categorized based on its difficulty level, ranging from easy t
 4. Solve the challenge and test your solution.
 
 ## Challenge Categories
- 1. [Easy](aoeaoe)
- 2. [Intermediate]()
- 3. [Advance]()
+ 1. [Easy](https://github.com/GiuseppeDev21/CodingJSChallenges/tree/main/Easy)
+ 2. [Intermediate](https://github.com/GiuseppeDev21/CodingJSChallenges/tree/main/Intermediate)
+ 3. [Advance](https://github.com/GiuseppeDev21/CodingJSChallenges/tree/main/Advanced)
 
 ## Acknowledgments
 A special thanks to all contributors and those who have provided valuable feedback to improve this repository.
+
+## Authors
+
+- [@GiuseppeDev21](https://github.com/GiuseppeDev21)
+
+## Feedback
+
+If you have any feedback, please reach out to us at giuseppedev21@gmail.com
 
 Happy coding! 🚀
